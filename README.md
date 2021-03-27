@@ -17,12 +17,12 @@
 
 * [PMS1003](https://s.click.aliexpress.com/e/_AWzR44)
 * [PMS3003](https://s.click.aliexpress.com/e/_AW6foc)
-* [PMS5003](https://s.click.aliexpress.com/e/_dX9Hv8F)
-* [PMS7003](https://s.click.aliexpress.com/e/_dX9Hv8F)
-* [PMSA003](https://s.click.aliexpress.com/e/_dX9Hv8F)
+* [PMS5003](https://s.click.aliexpress.com/e/_9HpBkc)
+* [PMS7003](https://s.click.aliexpress.com/e/_A4gH0M)
+* [PMSA003](https://s.click.aliexpress.com/e/_AeGE7O)
 
 **Technical Details:**
-* ATmega 328P microcontroller
+* [ATmega328P](https://s.click.aliexpress.com/e/_A2D6Ms) microcontroller
 * 3.3V Input Voltage
 * 3.3V to 5V boost converter _(required for [PMSx003](https://s.click.aliexpress.com/e/_9fx9fa))_
 * Selectable I2C bus address _(0x64, 0x65)_
