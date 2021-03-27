@@ -22,6 +22,7 @@
 * [PMSA003](https://s.click.aliexpress.com/e/_AeGE7O)
 
 **Technical Details:**
+* Supports both connector types _([2x5P 1.27mm](https://s.click.aliexpress.com/e/_A0pgI4) - PMS7003/PMSA003, [1x10p 1.25mm](https://s.click.aliexpress.com/e/_9GpHck) - PMS1003/PMS3003/PMS5003)_
 * [ATmega328P](https://s.click.aliexpress.com/e/_A2D6Ms) microcontroller
 * 3.3V Input Voltage
 * 3.3V to 5V boost converter _(required for [PMSx003](https://s.click.aliexpress.com/e/_9fx9fa))_
