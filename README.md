@@ -27,3 +27,6 @@
 * 3.3V Input Voltage
 * 3.3V to 5V boost converter _(required for [PMSx003](https://s.click.aliexpress.com/e/_9fx9fa))_
 * Selectable I2C bus address _(0x64, 0x65)_
+
+<img src="https://github.com/HomeKidd/PMSx003-I2C-Bus-adapter/raw/main/Images/P1020045_small.jpg" width="800"/> 
+
